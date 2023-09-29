@@ -1,0 +1,29 @@
+[33mcommit 355609680a3087442afacd0b3f1c7f532bbb4eb9[m[33m ([m[1;36mHEAD -> [m[1;32mmobile-first[m[33m)[m
+Author: May126-sone <may.thet.jemani@gmail.com>
+Date:   Thu Sep 28 09:54:13 2023 -0700
+
+    Add .gitifnore
+
+[33mcommit dce9f450518be8cbc7a1d496fdbf13b3f0f63393[m
+Author: May126-sone <may.thet.jemani@gmail.com>
+Date:   Thu Sep 28 09:21:45 2023 -0700
+
+    Add style.css file
+
+[33mcommit f8d3c271b72d4271b7ff20b1c78aa2a727317185[m
+Author: May126-sone <may.thet.jemani@gmail.com>
+Date:   Thu Sep 28 09:20:43 2023 -0700
+
+    Add index.html file
+
+[33mcommit 8e7564af1a8b603f30ae1df83a08bf07116218c0[m[33m ([m[1;31morigin/mobile-first[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: May126-sone <may.thet.jemani@gmail.com>
+Date:   Thu Sep 28 07:52:25 2023 -0700
+
+    Add linters config
+
+[33mcommit faed6d247217f1ad69b8d70eadce7824770f1874[m
+Author: Sio_126 <133224517+May126-sone@users.noreply.github.com>
+Date:   Wed Sep 27 17:00:45 2023 -0700
+
+    Initial commit
